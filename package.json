@@ -1,0 +1,33 @@
+{
+  "name": "try-gatsby",
+  "version": "1.0.0",
+  "private": true,
+  "description": "try-gatsby",
+  "author": "Mark Tang",
+  "keywords": [
+    "gatsby"
+  ],
+  "scripts": {
+    "develop": "gatsby develop",
+    "start": "gatsby develop",
+    "build": "gatsby build",
+    "serve": "gatsby serve",
+    "clean": "gatsby clean"
+  },
+  "dependencies": {
+    "@emotion/react": "^11.9.0",
+    "@emotion/styled": "^11.8.1",
+    "gatsby": "^4.15.2",
+    "gatsby-plugin-emotion": "^7.16.0",
+    "gatsby-plugin-google-analytics": "^4.16.0",
+    "gatsby-plugin-image": "^2.16.1",
+    "gatsby-plugin-react-helmet": "^5.16.0",
+    "gatsby-plugin-sharp": "^4.16.1",
+    "gatsby-plugin-sitemap": "^5.16.0",
+    "gatsby-source-filesystem": "^4.16.0",
+    "gatsby-transformer-sharp": "^4.16.0",
+    "react": "^18.1.0",
+    "react-dom": "^18.1.0",
+    "react-helmet": "^6.1.0"
+  }
+}
