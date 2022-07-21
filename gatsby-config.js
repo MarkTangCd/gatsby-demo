@@ -2,7 +2,7 @@ module.exports = {
   siteMetadata: {
     siteUrl: `https://www.yourdomain.tld`
   },
-  plugins: ["gatsby-plugin-emotion", {
+  plugins: ["gatsby-plugin-emotion", "gatsby-plugin-postcss", {
     resolve: 'gatsby-plugin-google-analytics',
     options: {
       "trackingId": "dafdsfdssdsfdsfddfdsaf"
